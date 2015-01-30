@@ -5,9 +5,12 @@
 * Preface
 * Chapter 1: Into Programming
 	* Code
+	* Try It Yourself
+	* Operators
 	* Values & Types
 	* Code Comments
 	* Variables
+	* Blocks
 	* Conditionals
 	* Loops
 	* Functions
@@ -17,7 +20,7 @@
 	* Variables
 	* Conditionals
 	* Strict Mode
-	* Function Closure
+	* Functions
 	* `this` Keyword
 	* Prototypes
 	* Old & New
